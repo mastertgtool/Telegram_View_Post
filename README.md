@@ -13,8 +13,8 @@
 <details>
 <summary><b>Install all cmds :</b></summary><br>
 
-     apt update && apt upgrade && pkg install python && pkg install git && git clone https://github.com/shivay-xd/Tg-view
-     cd Tg-view
+     apt update && apt upgrade && pkg install python && pkg install git && git clone https://github.com/mastertgtool/Telegram_View_Post.git
+     cd Telegram_View_Post
      ls
      pip install -r requirements.txt
      python view.py
